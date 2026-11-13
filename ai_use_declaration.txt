@@ -9,11 +9,9 @@ I used ChatGPT to support the development and presentation of this assignment.
 ChatGPT: 
 
 I used ChatGPT/Codex to draft and refine code, improve its readability and organization,
-and identify and fix bugs. This included assistance with constructing functions for more 
-complex processing steps, such as image preprocessing, patch-based training, 
-sliding-window reconstruction and evaluation. I also used it to explain errors, align 
-code with existing notebook functions, interpret experimental outputs, and improve the 
-project README and reproducibility instructions.
+and identify and fix bugs. This included assistance with molecular-data cleaning, graph 
+construction, scaffold splitting, fingerprint generation, GNN training, validation-based 
+selection, normalization and pooling experiments, evaluation, and report preparation.
 
 Scope of assistance of LLMS:
 
