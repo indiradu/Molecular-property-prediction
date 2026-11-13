@@ -1,4 +1,4 @@
-###Molecular Property Prediction with Graph Neural Networks
+### Molecular Property Prediction with Graph Neural Networks
 
 ENG2440 Assignment 3: predicting blood–brain barrier penetration using the MoleculeNet BBBP dataset. The project compares a Morgan-fingerprint logistic regression baseline with a bond-aware GNN under random and scaffold-based splits.
 
