@@ -1,0 +1,84 @@
+[
+  {
+    "split": "random",
+    "model": "Morgan LR",
+    "seed": 42,
+    "threshold": 0.24999999999999994,
+    "C": 0.1,
+    "val_auc": 0.9064761904761905
+  },
+  {
+    "split": "random",
+    "model": "GINE",
+    "normalization": "BatchNorm",
+    "pooling": "mean",
+    "seed": 11,
+    "threshold": 0.18,
+    "val_auc": 0.9145396825396827,
+    "best_epoch": 41,
+    "pos_weight": 0.3095238208770752
+  },
+  {
+    "split": "random",
+    "model": "GINE",
+    "normalization": "BatchNorm",
+    "pooling": "mean",
+    "seed": 22,
+    "threshold": 0.13,
+    "val_auc": 0.9083809523809524,
+    "best_epoch": 21,
+    "pos_weight": 0.3095238208770752
+  },
+  {
+    "split": "random",
+    "model": "GINE",
+    "normalization": "BatchNorm",
+    "pooling": "mean",
+    "seed": 33,
+    "threshold": 0.24999999999999994,
+    "val_auc": 0.9208253968253968,
+    "best_epoch": 25,
+    "pos_weight": 0.3095238208770752
+  },
+  {
+    "split": "scaffold",
+    "model": "Morgan LR",
+    "seed": 42,
+    "threshold": 0.15999999999999998,
+    "C": 0.1,
+    "val_auc": 0.8651404386302425
+  },
+  {
+    "split": "scaffold",
+    "model": "GINE",
+    "normalization": "BatchNorm",
+    "pooling": "mean",
+    "seed": 11,
+    "threshold": 0.49999999999999994,
+    "val_auc": 0.8905989483134539,
+    "best_epoch": 40,
+    "pos_weight": 0.31578946113586426
+  },
+  {
+    "split": "scaffold",
+    "model": "GINE",
+    "normalization": "BatchNorm",
+    "pooling": "mean",
+    "seed": 22,
+    "threshold": 0.14999999999999997,
+    "val_auc": 0.8941900731050404,
+    "best_epoch": 37,
+    "pos_weight": 0.31578946113586426
+  },
+  {
+    "split": "scaffold",
+    "model": "GINE",
+    "normalization": "BatchNorm",
+    "pooling": "mean",
+    "seed": 33,
+    "threshold": 0.12,
+    "val_auc": 0.8948954726176734,
+    "best_epoch": 59,
+    "pos_weight": 0.31578946113586426
+  }
+]

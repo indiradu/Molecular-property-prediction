@@ -1,0 +1,20 @@
+{
+  "source_csv_records": 2050,
+  "source_invalid_or_empty": 11,
+  "source_nonfinite_labels": 0,
+  "source_positive": 1567,
+  "source_negative": 483,
+  "loader_records": 2039,
+  "raw_records": 2039,
+  "nonfinite_labels": 0,
+  "invalid_or_empty": 0,
+  "nonbinary_labels": 0,
+  "duplicate_groups": 60,
+  "duplicate_records": 124,
+  "extra_duplicate_records": 64,
+  "duplicate_groups_with_different_original_smiles": 60,
+  "conflicting_groups": 10,
+  "conflicting_records": 20,
+  "consistent_duplicate_records_removed": 54,
+  "retained": 1965
+}
